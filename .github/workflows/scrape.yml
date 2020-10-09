@@ -8,7 +8,7 @@ on:
 
 jobs:
   scheduled:
-    runs-on: spotify-playlist-scraper
+    runs-on: ghcr.io/buckley-w-david/spotify-playlist-scraper
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
