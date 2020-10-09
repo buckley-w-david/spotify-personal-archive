@@ -4,16 +4,17 @@ on:
   push:
   workflow_dispatch:
   schedule:
-    - cron:  '6,26,46 * * * *'
+    - cron:  '0 0 * * *'
 
 jobs:
   scheduled:
-    runs-on: spotify-playlist-scraper
+    runs-on: ubuntu-20.04
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
     - name: Fetch latest data
       run: |-
+        pip install -r requirements.txt
         python pull.py > README.md
     - name: Commit and push if it changed
       run: |-
