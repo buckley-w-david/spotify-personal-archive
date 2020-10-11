@@ -45,7 +45,7 @@
  - Can You Feel The Sun from [Can You Feel The Sun](https://open.spotify.com/album/61RaHN5mT8pGu6aAveNx3d) by [MISSIO](https://open.spotify.com/artist/2HOMW1liAxI3URnEq95SMS)
  - 廻廻奇譚 from [廻廻奇譚](https://open.spotify.com/album/6f35hoWi8xaqBaJUKMszct) by [Eve](https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf)
  - Disappointed but Not Surprised from [Disappointed but Not Surprised](https://open.spotify.com/album/6M8Wf41irPzFCkNxAIPQQ7) by [Kowai Kid](https://open.spotify.com/artist/06aXJ4mWpFw1J4xeYOJk42), [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE)
- - Smash Thru from [Eat Your Dreams](https://open.spotify.com/album/0yHMdZPjPpZ4NTHbsHbPWv) by [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb), [Adron](https://open.spotify.com/artist/5yeHiHFyKRR9kmbuNMCkcJ)
+ - Smash Thru from [Eat Your Dreams](https://open.spotify.com/album/0yHMdZPjPpZ4NTHbsHbPWv) by [nelward](https://open.spotify.com/artist/4DVe11vtKHN5TRtG8TEjNb), [Adron](https://open.spotify.com/artist/1CoHG5MTULb71p1MbyGVRL)
  - Thunder & Lightning from [Thunder & Lightning](https://open.spotify.com/album/7eEF16tHJ1hpICfFp0mVK4) by [Ninja Sex Party](https://open.spotify.com/artist/3jsyANBBy6gOZUSQhiGclx)
  - Minecraft Pigstep - Remix from [Minecraft Pigstep (Remix)](https://open.spotify.com/album/0khRUZ8VaLXc3L2dJRP7gu) by [FlyxTheKid](https://open.spotify.com/artist/5xKVOc3OIhyBDsw2rYpN3R)
  - A Change in Events from [Isolation](https://open.spotify.com/album/2s0DJduH3epEqXmea6t24m) by [Cosmic Slice](https://open.spotify.com/artist/2gm1BP5EajqXSF2Qw2V6GI)
