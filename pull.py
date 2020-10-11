@@ -12,7 +12,7 @@ for playlist in config["Playlists"]:
     with urlopen(playlist_url) as request:
         soup = BeautifulSoup(request.read(), features="html.parser")
 
-    print(f"# {playlist['name']}")
+    print(f"## {playlist['name']}")
     for track in soup.find_all(class_='tracklist-col name'):
         *artists, album = track.find_all('a')
         artist_entries = []
