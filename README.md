@@ -50,7 +50,7 @@
  - mero-mero from [mero-mero](https://open.spotify.com/album/3ehr21UVL48CtZIaExmUZ2) by [Heiakim](https://open.spotify.com/artist/7CSdLmKke7VFyb0ZJfl3W1)
  - Static from [Static](https://open.spotify.com/album/4jinUMDooO9YHkpW3fA1dB) by [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34)
  - City from [Jump in The Dark](https://open.spotify.com/album/68HQv5uWkIq2NCyBPz5BvR) by [DBMK](https://open.spotify.com/artist/6EByikTHjqFtWxos3Iaqik)
- - Retromance from [Retromance](https://open.spotify.com/album/05FisuymXimYQbAJlkaIJf) by [CJ Simpson](https://open.spotify.com/artist/5TInlDzLIZIam5jKav8Pou), [SID](https://open.spotify.com/artist/24b231EnCM3BkpiuWs5VBE), [Patrons](https://open.spotify.com/artist/5kVIA59yAGPdCZzMxvYqBt)
+ - Retromance from [Retromance](https://open.spotify.com/album/05FisuymXimYQbAJlkaIJf) by [CJ Simpson](https://open.spotify.com/artist/5TInlDzLIZIam5jKav8Pou), [SID](https://open.spotify.com/artist/3aKHKUz47U7FhTp4VahBJu), [Patrons](https://open.spotify.com/artist/5kVIA59yAGPdCZzMxvYqBt)
  - Pop on Rocks from [Pop on Rocks](https://open.spotify.com/album/0h0vhlK7wfHXlJoIZcCgUj) by [Holo Bass](https://open.spotify.com/artist/2PRgydyiHrmn1lumlW0ygO)
  - Floating World from [Floating World](https://open.spotify.com/album/76xpejonynivyZmDfxOkwy) by [Area 11](https://open.spotify.com/artist/3jULn43a6xfzqleyeFjPIq)
  - 鯨の唄 - Instrumental from [5 -Instrumentals-](https://open.spotify.com/album/0RFiiRO0L665oWqFlXogNt) by [Mrs. GREEN APPLE](https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9)
